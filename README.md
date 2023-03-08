@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="../../../">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrthpanchal&theme=light&show_icons=true&title_color=eb4034&icon_color=eb4034&bg_color=F5F5F5&border_color=eb4034&custom_title=Summary" alt="Parth Panchal's Github Summary"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrthpanchal&theme=light&show_icons=true&title_color=C0C0C0&icon_color=C0C0C0&bg_color=28282B&border_color=C0C0C0&custom_title=Summary" alt="Parth Panchal's Github Summary"/>
 	</a>
 </p>
 
